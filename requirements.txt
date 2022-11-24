@@ -1,0 +1,8 @@
+keras
+numpy
+Pillow
+opencv-python-headless
+numpy
+tensorflow
+
+
